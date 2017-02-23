@@ -42,4 +42,7 @@ p.afri {
     padding: 15px;
 }
 
-
+.navigator {
+    float: right;
+    align-content: center;
+}
